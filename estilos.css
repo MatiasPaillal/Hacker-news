@@ -89,6 +89,11 @@ label {
     height: 110px;
     border-color: black;
     border:2px solid black; 
+    word-wrap: break-word;
+    
+    overflow-y: scroll;
+    overflow: hidden; 
+    overflow-y: auto;
 
 }
  
