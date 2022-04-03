@@ -1,0 +1,162 @@
+body {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    margin: 0%;
+    margin-bottom: 10px;
+
+} 
+a{
+    font-size: 15px;
+}
+.header{
+
+    border-color: black;
+    border:2px solid black;
+    
+   
+}
+ 
+.enlaces{
+    font-size: 20px;
+    text-align: right;
+    margin-top:10px;
+    margin-right:20px; 
+}
+.formulario1{
+    margin-top: 70px;
+    text-align: center;
+    
+     
+    
+} 
+.formBusqueda{
+    width: auto;
+    height: 30%; 
+    font-size: 18px; 
+    border-radius: 0%;
+    padding: 8px;
+}
+.formulario2{ 
+    text-align: right; 
+    margin: auto;
+    justify-content: right;
+     
+    
+}
+.form2Elementos{
+margin-top: 20px;
+width: 91%; 
+}
+.form2Elementos.input{
+     height: 30px;
+    }
+    .form2Elementos.message{
+        
+        height: 115px;
+       }
+        
+
+.boton{
+    margin-top: 15px;
+    width: 80px;
+    height: 40px;
+    font-size: 14px;
+} 
+
+label { 
+    margin-top: 10px;
+    display: inline-block;  
+    font-size: 20px;
+  }
+    
+ 
+
+.contedorFomulario{ 
+    justify-content: center;
+    margin-top: 25px;
+     
+    
+}
+.campos{
+    margin: auto;
+    margin-top: 30px; 
+    width: 80%;
+    height: 110px;
+    border-color: black;
+    border:2px solid black; 
+
+}
+ 
+.campoElements{ 
+    font-size: 20px; 
+    margin-left: 5px;
+    margin-top: 0%;
+    
+
+
+}
+input{
+    border-radius: 0;
+    
+}
+
+ 
+h2{
+    margin-top: 100px;
+    font-size: 15px;
+    text-align: center;
+}
+h3{
+    margin-top: 60px;
+    font-size: 23px;
+    text-align: center;
+}
+.container { 
+    padding-right: 90px; 
+    padding-left: 90px;
+    margin: auto;
+  }
+  .col-25 {
+    float: left;
+    width: 10%;
+    margin-top: 6px;
+    text-align: right;
+    margin-right: 20px;
+    
+  }
+  
+  .col-75 {
+    float: left;
+    width: 85%;
+    margin-top: 6px;
+  }
+  
+   
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    padding-top: 15px;
+  }
+
+  .inputDatos{
+    width: 100%;
+    padding: 12px;  
+   
+  }
+  .inputMsg{
+    width: 100%;
+    height: 120px;
+    padding: 12px;  
+   
+  }
+   
+  
+  .boton {   
+    float: right; 
+  }
