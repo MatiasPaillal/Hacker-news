@@ -41,6 +41,11 @@ a{
     border-radius: 0%;
     padding: 8px;
 }
+.formBusqueda.email{
+    width: 50%;
+
+}
+
 .formulario2{ 
     text-align: right; 
     margin: auto;
