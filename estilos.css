@@ -12,6 +12,7 @@ h1{
 } 
 a{
     font-size: 15px;
+    color:black;
 }
 .header{
 
@@ -20,7 +21,9 @@ a{
     
    
 }
- 
+a{
+    text-decoration: none;
+}
 .enlaces{
     font-size: 20px;
     text-align: right;
